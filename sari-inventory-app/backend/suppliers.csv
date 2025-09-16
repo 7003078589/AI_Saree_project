@@ -1,0 +1,3 @@
+name,email,phone,address,city,state,pincode,category
+"Fabric Supplier","fabric@supplier.com","+91-9876543220","789 Supply Chain","Mumbai","Maharashtra","400002","Fabric"
+"Dye Supplier","dye@supplier.com","+91-9876543221","321 Chemical Lane","Delhi","Delhi","110002","Dyes"
