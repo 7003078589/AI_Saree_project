@@ -114,3 +114,7 @@ Desktop.ini
 # Backup files
 *.bak
 *.backup
+
+# Backend configuration files
+config.env
+*.env
